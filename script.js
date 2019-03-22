@@ -1,3 +1,3 @@
 function runCode(){
-    alert("You suk lol *dab* ")
+    alert("Nah bruh, you suck *dabs back*")
 }
