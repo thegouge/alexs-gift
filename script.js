@@ -1,3 +1,3 @@
-function myFunction(){
-    document.alert("Nah bruh, you suck *dabs back*")
+function myFunction() {
+    alert("Nah bruh, you suck *dabs back*")
 }
